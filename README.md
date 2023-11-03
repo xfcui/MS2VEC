@@ -10,6 +10,5 @@ A Search Engine for Large-Scale Peptide Mass Spectra Retrieval
 # MS2VEC Usage
 
 ## Spectral Embedding
-## Spectral Retrieval
 
 # Contact
