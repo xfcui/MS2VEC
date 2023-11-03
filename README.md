@@ -5,7 +5,7 @@ A Search Engine for Large-Scale Peptide Mass Spectra Retrieval
 
 **Output**: 128 dim Spectral Fingerprint
 
-# Installation
+<!-- # Installation -->
 
 # MS2VEC Usage
 
